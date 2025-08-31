@@ -155,7 +155,8 @@ Focus on consumption-based forecasting accuracy for material planning.
 
 ### Future Enhancements
 
-<img width="982" height="468" alt="image" src="https://github.com/user-attachments/assets/c1d230e5-656e-4a6d-a6df-d4dea6f73ec0" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7efdba72-f23e-4947-bcdb-9d1b4a476ce9" />
+
 
 
 - Integration with Production Planning (MPS, capacity planning, scheduling)
