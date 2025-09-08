@@ -179,7 +179,7 @@ This project was developed as part of an internship program. Please refer to you
 
 ## Contact & Support
 
-For technical issues or questions about implementation, a complete documentation will be uploaded in time to come
+For technical issues or questions about implementation, documentation has been uploaded.
 
 ---
 *Developed using Lean Six Sigma methodology for process improvement in material planning operations.*
