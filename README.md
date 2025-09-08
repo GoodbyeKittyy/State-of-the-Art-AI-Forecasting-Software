@@ -11,7 +11,8 @@ This repository contains an integrated AI-driven material planning system develo
 
 ## What This Software Does
 
-<img width="1460" height="486" alt="image" src="https://github.com/user-attachments/assets/e74dcb4b-5ffb-4a05-9406-a77a60eda27c" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3e0ec818-70a4-4189-87c0-43e10e818254" />
+
 
 
 This AI system transforms material planning by providing:
@@ -23,13 +24,13 @@ This AI system transforms material planning by providing:
 
 The software processes historical usage, forecast, supplier, and financial data to generate actionable insights for material planners.
 
-## Key Technologies
+## Key Technologies & Architecture
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2a45f582-0f07-40dd-9ec3-ca43625b44f7" />
+<br/><img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2a45f582-0f07-40dd-9ec3-ca43625b44f7" /><br/>
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b93554a2-2d97-4a25-8641-85dd0f74c387" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b93554a2-2d97-4a25-8641-85dd0f74c387" /><br/>
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3a4ee1ec-4973-4f00-b238-0de09891327b" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3a4ee1ec-4973-4f00-b238-0de09891327b" /><br/>
 
 
 ### AI Framework
