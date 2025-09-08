@@ -24,6 +24,17 @@ This AI system transforms material planning by providing:
 
 The software processes historical usage, forecast, supplier, and financial data to generate actionable insights for material planners.
 
+## Sample Excel Results
+
+<img width="1097" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9802806-acfd-4d70-bd26-3fdc3035eec6" />
+
+<img width="1175" height="1024" alt="image" src="https://github.com/user-attachments/assets/50e0cf30-debb-4fb7-ae7f-66aa47517d8a" />
+
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/9bd64eb4-d1c7-42a7-9e48-305db517fb21" />
+
+<img width="1199" height="1023" alt="image" src="https://github.com/user-attachments/assets/636ec58c-7556-4522-b548-406c5f746495" />
+
+
 ## Key Technologies & Architecture
 
 <br/><img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2a45f582-0f07-40dd-9ec3-ca43625b44f7" /><br/>
