@@ -25,6 +25,13 @@ The software processes historical usage, forecast, supplier, and financial data 
 
 ## Key Technologies
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2a45f582-0f07-40dd-9ec3-ca43625b44f7" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b93554a2-2d97-4a25-8641-85dd0f74c387" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3a4ee1ec-4973-4f00-b238-0de09891327b" />
+
+
 ### AI Framework
 - **TabPFN (Tabular Prior Data Fitted Network)**: Transformer-based neural network for tabular data forecasting
 - **Evolutionary Computation**: Multi-objective optimization for scenario planning
@@ -135,14 +142,6 @@ You may generate a sample dataset and fit in your data based on the provided for
 - Analysis runtime varies by dataset size (refer to runtime estimate tables)
 - Interface displays are capped at 100 rows for performance
 
-## Technical Architecture
-
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2a45f582-0f07-40dd-9ec3-ca43625b44f7" />
-
-### AI Models Used
-- **TabPFN**: Transformer-based neural network pre-trained on synthetic tabular datasets
-- **Evolutionary Computation**: Multi-objective optimization for future scenarios
-- **Ensemble Methods**: Multiple AI models working in parallel
 
 ### System Design
 - Modular architecture with clear separation of concerns
