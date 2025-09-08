@@ -49,7 +49,7 @@ The software processes historical usage, forecast, supplier, and financial data 
 - **Evolutionary Computation**: Multi-objective optimization for scenario planning
 - **Ensemble AI Models**: Multiple specialized models working in parallel
 
-### UML Diagram
+### UML Diagram (Work in Progress)
 
 <img width="4758" height="4200" alt="Packages" src="https://github.com/user-attachments/assets/2f695523-5623-4869-8dce-5b4c89caa0f1" />
 
