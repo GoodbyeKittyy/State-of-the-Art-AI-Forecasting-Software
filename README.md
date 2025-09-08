@@ -38,18 +38,23 @@ The software processes historical usage, forecast, supplier, and financial data 
 - **Evolutionary Computation**: Multi-objective optimization for scenario planning
 - **Ensemble AI Models**: Multiple specialized models working in parallel
 
-### Architecture Highlights
-- Modular design with clear separation of concerns
-- Session-based memory management
-- Secure development practices
-- Excel integration for data input/output
+### UML Diagram
 
-## Performance & Limitations
-- To prevent issues, loading table results on the interface will be capped at 100 rows
+<img width="4758" height="4200" alt="Packages" src="https://github.com/user-attachments/assets/2f695523-5623-4869-8dce-5b4c89caa0f1" />
+
+
+Encapsulation – Each class groups related data and methods together (e.g., Main, DynamicClassifier), controlling access to internal details through attributes and functions.
+
+Abstraction – Complex operations are hidden behind clear interfaces (e.g., FinancialCalculations, DynamicLearningTab) so users interact only with necessary functionality.
+
+Inheritance – Shared structures and behaviors are extended by specialized classes (e.g., DynamicLearningTab inherits from DynamicClassifierBase).
+
+Polymorphism – Different classes implement methods that can be used interchangeably (e.g., various calculation and tab classes override or extend base behaviors for specific contexts).
+
 
 ### System Capacity
 - **Maximum Dataset**: 5,000 material codes with 120 months of data
-- **Processing Time**: ~5 minutes for data generation, varies for analysis
+- **Processing Time**: Small datasets easily take less than 5 minutes. Large Datasets do not take more than 1hr 30 mins.
 - **Interface Display**: Limited to 100 rows (full data available in Excel export)
 
 ### Runtime Estimates
@@ -119,6 +124,9 @@ You may generate a sample dataset and fit in your data based on the provided for
 - Risk-adjusted forecasting
 - Order adjustment recommendations
 
+**Tab 4 - Final Actions**
+- Unique to the Excel Export
+- Fast and Straightforward decision guidance
 
 ## Troubleshooting
 
@@ -166,14 +174,8 @@ Focus on consumption-based forecasting accuracy for material planning.
 - Industrial Engineering workflows (process improvement, bottleneck analysis)
 - Enhanced Material-Production integration (MPS validation, load balancing)
 
-## Contributing & Development
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/582e1b03-e975-401e-a060-ca7c9b73d250" />
 
-### Project Structure
-The codebase follows object-oriented design principles with:
-- **Modularization**: Clear separation of data processing, AI models, and UI components
-- **Polymorphism**: Flexible handling of different data input formats
-- **Abstraction**: Clean interfaces between system components
-- **Encapsulation**: Secure data handling and processing
 
 
 ## License
@@ -182,7 +184,5 @@ This project was developed as part of an internship program. Please refer to you
 
 ## Contact & Support
 
-For technical issues or questions about implementation, documentation has been uploaded.
+For technical issues or questions about implementation, documentation has been uploaded for your reference.
 
----
-*Developed using Lean Six Sigma methodology for process improvement in material planning operations.*
