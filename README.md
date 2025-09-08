@@ -2,7 +2,7 @@
 
 ## About This Project
 
-This repository contains an integrated AI-driven material planning system developed to eliminate supply chain uncertainties and bullwhip effects. The software was created during my 6-month internship (June-December 2025) to address critical forecasting and planning challenges in manufacturing environments.
+This repository contains an integrated AI-driven material planning system developed to eliminate supply chain uncertainties and bullwhip effects. The software was created during my 6-month internship (June-December 2025) to address critical forecasting and planning challenges in challenging manufacturing environments.
 
 <img width="1917" height="676" alt="image" src="https://github.com/user-attachments/assets/8ec73891-2fde-409c-9a49-697c60e1d77e" />
 
