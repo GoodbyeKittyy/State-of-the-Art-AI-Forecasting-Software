@@ -11,6 +11,9 @@ This repository contains an integrated AI-driven material planning system develo
 
 ## What This Software Does
 
+<img width="1460" height="486" alt="image" src="https://github.com/user-attachments/assets/e74dcb4b-5ffb-4a05-9406-a77a60eda27c" />
+
+
 This AI system transforms material planning by providing:
 - **Accurate Forecasting**: Uses TabPFN (Tabular Prior Data Fitted Network) for superior prediction accuracy 
 - **Cost Optimization**: Calculates potential savings through improved forecasting
