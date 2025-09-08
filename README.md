@@ -191,7 +191,7 @@ Focus on consumption-based forecasting accuracy for material planning.
 
 ## License
 
-This project was developed as part of an internship program. Please refer to your organization's software usage policies.
+This project was developed as part of an internship program. Please refer to your organization's software and AI usage policies.
 
 ## Contact & Support
 
