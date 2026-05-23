@@ -45,13 +45,13 @@ The software processes historical usage, forecast, supplier, and financial data 
 
 
 ### AI Framework
-- **TabPFN (Tabular Prior Data Fitted Network)**: Transformer-based neural network for tabular data forecasting
+- **TabPFN v3 (Tabular Prior Data Fitted Network)**: Upgraded transformer-based neural network for tabular data forecasting, now with structured trend prediction (UP / FLAT / DOWN) and percentage change stored directly per material — enabling cleaner downstream exports without text parsing
 - **Evolutionary Computation**: Multi-objective optimization for scenario planning
 - **Ensemble AI Models**: Multiple specialized models working in parallel
 
 ### UML Class Diagram (Work in Progress)
 
-<img width="4758" height="4200" alt="Packages" src="https://github.com/user-attachments/assets/2f695523-5623-4869-8dce-5b4c89caa0f1" />
+<img width="3412" height="1589" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/5b39a5f0-24c7-4053-bf63-62abf80ab5a3" />
 
 
 Encapsulation – Each class groups related data and methods together (e.g., Main, DynamicClassifier), controlling access to internal details through attributes and functions.
